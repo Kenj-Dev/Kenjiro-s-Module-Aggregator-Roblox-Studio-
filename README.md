@@ -8,7 +8,8 @@ This module is made to make handling frameworks and modules that need a simple w
 First of all you require the module aggregator
 
 ```luau
-local module = require(game.ReplicatedStorage.module)```
+local module = require(game.ReplicatedStorage.module)
+```
 
 Make sure theres a child module of the aggregator that has functions that you can call via the module aggregator
 
